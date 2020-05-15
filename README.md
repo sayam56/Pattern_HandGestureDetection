@@ -129,7 +129,7 @@ bash run_online.sh
 
 ## Citation
 
-Please cite the following article if you use this code or pre-trained models:
+Cited from:
 
 ```bibtex
 @article{kopuklu_real-time_2019,
