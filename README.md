@@ -1,5 +1,5 @@
 # Ali Iktider Sayam
-Andrew Ng CNN - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+Andrew NG CNN - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
 
 
 
