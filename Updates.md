@@ -2,7 +2,8 @@ Andrew Ng CNN - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVw
 
 
 
-Intall Pytorch: https://youtu.be/hZBgjrEjQqo <br>
+Intall Pytorch:<br>
+                https://youtu.be/hZBgjrEjQqo <br>
                 https://youtu.be/ydxYF_ToO7Y <br>
                 https://youtu.be/QmsR6vfYDr0 <br>
 
