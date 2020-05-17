@@ -37,3 +37,5 @@ CNN W1L08 : Simple Convolutional Network Example<br>
 &emsp;&emsp; https://www.youtube.com/watch?v=jA7G9hKjmFk&list=PLFKog8qYYq0HOfk3EIYyg6O1008OebB5t&index=9
 
 
+# Al Noman
+Add your links here
