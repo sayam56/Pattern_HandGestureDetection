@@ -1,6 +1,6 @@
 Literature review 
 <br>
-A friendly introduction to Convolutional Neural Networks and Image Recognition by Andrew ng 
+A friendly introduction to Convolutional Neural Networks and Image Recognition by Andrew ng <br>
 &emsp;&emsp; https://www.youtube.com/watch?v=2-Ol7ZB0MmU&list=PLFKog8qYYq0HOfk3EIYyg6O1008OebB5t
 
 CNN W1L01 : Computer Vision <br>
