@@ -41,3 +41,7 @@ CNN W1L08 : Simple Convolutional Network Example<br>
 CNN W1L01 : Detecting hand gestures using scikit-learn in real time <br>
 &emsp;&emsp; https://www.youtube.com/watch?v=x7U4SJzm9HA
 
+
+
+ #011 CNN Why convolutions ?<br>
+&emsp;&emsp; http://datahacker.rs/why-convolution/
