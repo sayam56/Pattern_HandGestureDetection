@@ -64,7 +64,7 @@ Last Generated Results :
   <img  src="first pat 1.JPG" width=450 alt="generated result 1">
   </span>
   <span>
-    <img  src="ending pat.JPG" width=400 alt="generated result 2">
+    <img  src="ending pat.JPG" width=425 alt="generated result 2">
     </span>
 </div>
 
