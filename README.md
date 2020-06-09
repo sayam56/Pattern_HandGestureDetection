@@ -57,7 +57,7 @@ How to compile code: https://youtu.be/sGWLjbn5cgs
 
 Last Generated Results :
 
-<div align="center" style="width:image width px;">
+<div>
   <span>
   <img  src="first pat 1.JPG" width=500 alt="generated result 1">
   </span>
