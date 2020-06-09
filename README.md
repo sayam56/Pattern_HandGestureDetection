@@ -1,7 +1,13 @@
 # Ali Iktider Sayam
-Andrew NG CNN - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
 
-CNN from Towards Data Science: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=A%20CNN%20model%20can%20be,short%20tail%20and%20so%20on.
+Deep Learning and WHY CNN is needed : https://youtu.be/ArPaAX_PhIs <br>
+Edge Detection: https://youtu.be/XuD4C8vJzEQ , https://youtu.be/am36dePheDc <br>
+Padding: https://youtu.be/smHa2442Ah4 <br>
+Stride: https://youtu.be/tQYZaDn_kSg <br>
+WHY CNN : https://youtu.be/bXJx7y51cl0 <br>
+
+
+CNN from Towards Data Science: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=A%20CNN%20model%20can%20be,short%20tail%20and%20so%20on <br>
 
 
 
