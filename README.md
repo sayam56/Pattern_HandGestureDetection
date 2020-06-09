@@ -1,5 +1,7 @@
 # Ali Iktider Sayam
 
+Paper: https://paperswithcode.com/paper/real-time-hand-gesture-detection-and
+
 Deep Learning and WHY CNN is needed : https://youtu.be/ArPaAX_PhIs <br>
 Edge Detection: https://youtu.be/XuD4C8vJzEQ , https://youtu.be/am36dePheDc <br>
 Padding: https://youtu.be/smHa2442Ah4 <br>
@@ -8,6 +10,11 @@ WHY CNN : https://youtu.be/bXJx7y51cl0 <br>
 
 
 CNN from Towards Data Science: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=A%20CNN%20model%20can%20be,short%20tail%20and%20so%20on <br>
+
+Open CV for webcam: http://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.html
+
+Jester Dataset : https://20bn.com/datasets/jester
+
 
 
 
