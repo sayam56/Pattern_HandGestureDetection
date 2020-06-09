@@ -15,7 +15,7 @@ Open CV for webcam: http://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.ht
 
 Jester Dataset : https://20bn.com/datasets/jester
 
-List or PIP packages installed:
+List of PIP packages installed:
 
 Package         | Version |
 ---------------| ------------ |
@@ -49,7 +49,8 @@ Intall Pytorch:<br>
                 https://youtu.be/ydxYF_ToO7Y <br>
                 https://youtu.be/QmsR6vfYDr0 <br>
 
-Intall Pytorch in Anaconda: https://youtu.be/hZBgjrEjQqo
+Intall Pytorch in Anaconda: https://youtu.be/hZBgjrEjQqo 
+Install Pytorch : https://www.javatpoint.com/pytorch-installation
 
 How to compile code: https://youtu.be/sGWLjbn5cgs
 
