@@ -21,24 +21,24 @@ Package         | Version |
 ---------------| ------------ |
 cycler         | 0.10.0 | <br>
 joblib         | 0.14.1 | <br> 
-kiwisolver      1.1.0 <br>
-matplotlib      3.2.0<br>
-numpy           1.18.1<br>
-opencv-python   4.2.0.32<br>
-pandas          1.0.1<br>
-Pillow          7.0.0<br>
-pip             20.0.2<br>
-pyparsing       2.4.6<br>
-python-dateutil 2.8.1<br>
-pytz            2019.3<br>
-PyYAML          5.3<br>
-scikit-learn    0.22.2.post1<br>
-scipy           1.4.1<br>
-setuptools      41.2.0<br>
-six             1.14.0<br>
-sklearn         0.0<br>
-torch           1.4.0<br>
-torchvision     0.5.0<br>
+kiwisolver     | 1.1.0| <br>
+matplotlib      |3.2.0|<br>
+numpy           |1.18.1|<br>
+opencv-python   |4.2.0.32|<br>
+pandas          |1.0.1|<br>
+Pillow          |7.0.0|<br>
+pip             |20.0.2|<br>
+pyparsing       |2.4.6|<br>
+python-dateutil |2.8.1|<br>
+pytz            |2019.3|<br>
+PyYAML          |5.3|<br>
+scikit-learn    |0.22.2.post1|<br>
+scipy           |1.4.1|<br>
+setuptools      |41.2.0|<br>
+six             |1.14.0|<br>
+sklearn         |0.0|<br>
+torch           |1.4.0|<br>
+torchvision     |0.5.0|<br>
 
 
 
