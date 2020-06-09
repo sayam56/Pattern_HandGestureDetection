@@ -1,6 +1,8 @@
 # Ali Iktider Sayam
 Andrew NG CNN - https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
 
+CNN from Towards Data Science: https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2#:~:text=A%20CNN%20model%20can%20be,short%20tail%20and%20so%20on.
+
 
 
 Intall Pytorch:<br>
