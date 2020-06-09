@@ -17,10 +17,10 @@ Jester Dataset : https://20bn.com/datasets/jester
 
 List or PIP packages installed:
 
-Package         Version
---------------- ------------
-cycler          0.10.0 <br>
-joblib          0.14.1 <br> 
+Package         | Version |
+---------------| ------------ |
+cycler         | 0.10.0 | <br>
+joblib         | 0.14.1 | <br> 
 kiwisolver      1.1.0 <br>
 matplotlib      3.2.0<br>
 numpy           1.18.1<br>
