@@ -57,8 +57,13 @@ How to compile code: https://youtu.be/sGWLjbn5cgs
 
 Last Generated Results :
 
-<div align="left" style="width:image width px;">
-  <img  src="first pat 1.JPG" width=500 alt="simulation results">
+<div align="center" style="width:image width px;">
+  <span>
+  <img  src="first pat 1.JPG" width=500 alt="generated result 1">
+  </span>
+  <span>
+    <img  src="ending pat.JPG" width=500 alt="generated result 2">
+    </span>
 </div>
 
 # Muhibul Alam
