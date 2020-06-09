@@ -54,6 +54,13 @@ Install Pytorch : https://www.javatpoint.com/pytorch-installation
 
 How to compile code: https://youtu.be/sGWLjbn5cgs
 
+
+Last Generated Results :
+
+<div align="left" style="width:image width px;">
+  <img  src="first pat 1.jpg" width=500 alt="simulation results">
+</div>
+
 # Muhibul Alam
 Literature review 
 <br>
