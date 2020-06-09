@@ -16,7 +16,7 @@ Open CV for webcam: http://web.cecs.pdx.edu/~fliu/courses/cs410/python-opencv.ht
 Jester Dataset : https://20bn.com/datasets/jester
 
 
-<div align="center">
+
 List of PIP packages installed:
   
 Package         | Version |
@@ -42,7 +42,7 @@ sklearn         |0.0|<br>
 torch           |1.4.0|<br>
 torchvision     |0.5.0|<br>
 
-</div>
+
 
 
 
@@ -61,7 +61,7 @@ Last Generated Results :
 
 <div>
   <span>
-  <img  src="first pat 1.JPG" width=400 alt="generated result 1">
+  <img  src="first pat 1.JPG" width=450 alt="generated result 1">
   </span>
   <span>
     <img  src="ending pat.JPG" width=400 alt="generated result 2">
