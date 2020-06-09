@@ -19,26 +19,26 @@ List or PIP packages installed:
 
 Package         Version
 --------------- ------------
-cycler          0.10.0
-joblib          0.14.1
-kiwisolver      1.1.0
-matplotlib      3.2.0
-numpy           1.18.1
-opencv-python   4.2.0.32
-pandas          1.0.1
-Pillow          7.0.0
-pip             20.0.2
-pyparsing       2.4.6
-python-dateutil 2.8.1
-pytz            2019.3
-PyYAML          5.3
-scikit-learn    0.22.2.post1
-scipy           1.4.1
-setuptools      41.2.0
-six             1.14.0
-sklearn         0.0
-torch           1.4.0
-torchvision     0.5.0
+cycler          0.10.0 <br>
+joblib          0.14.1 <br> 
+kiwisolver      1.1.0 <br>
+matplotlib      3.2.0<br>
+numpy           1.18.1<br>
+opencv-python   4.2.0.32<br>
+pandas          1.0.1<br>
+Pillow          7.0.0<br>
+pip             20.0.2<br>
+pyparsing       2.4.6<br>
+python-dateutil 2.8.1<br>
+pytz            2019.3<br>
+PyYAML          5.3<br>
+scikit-learn    0.22.2.post1<br>
+scipy           1.4.1<br>
+setuptools      41.2.0<br>
+six             1.14.0<br>
+sklearn         0.0<br>
+torch           1.4.0<br>
+torchvision     0.5.0<br>
 
 
 
