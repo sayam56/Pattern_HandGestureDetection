@@ -110,3 +110,7 @@ CNN W1L01 : Detecting hand gestures using scikit-learn in real time <br>
 
  #011 CNN Why convolutions ?<br>
 &emsp;&emsp; http://datahacker.rs/why-convolution/
+
+CNN W1L04 : Padding: <br>
+&emsp;&emsp; https://www.youtube.com/watch?v=JWlLkgbEDQM&list=PLFKog8qYYq0HOfk3EIYyg6O1008OebB5t&index=5
+
