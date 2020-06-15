@@ -92,6 +92,15 @@ CNN W1L05 : Strided Convolution: <br>
 CNN W1L08 : Simple Convolutional Network Example<br>
 &emsp;&emsp; https://www.youtube.com/watch?v=jA7G9hKjmFk&list=PLFKog8qYYq0HOfk3EIYyg6O1008OebB5t&index=9
 
+Overview of cnn in image classification <br>
+&emsp;&emsp;https://analyticsindiamag.com/convolutional-neural-network-image-classification-overview/#:~:text=CNNs%20are%20used%20for%20image,because%20of%20its%20high%20accuracy.&text=The%20CNN%20follows%20a%20hierarchical,and%20the%20output%20is%20processed. <br>
+
+Introduction to ReLu<br>
+&emsp;&emsp; https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+
+
+
+
 
 # Al Noman
 CNN W1L01 : Detecting hand gestures using scikit-learn in real time <br>
