@@ -99,6 +99,11 @@ Introduction to ReLu<br>
 &emsp;&emsp; https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 
 
+BatchNorm<br>
+&emsp;&emsp;https://discuss.pytorch.org/t/understanding-batchnorm/35516
+
+
+
 
 
 
