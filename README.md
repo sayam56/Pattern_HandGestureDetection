@@ -51,8 +51,8 @@ Intall Pytorch:<br>
                 https://youtu.be/ydxYF_ToO7Y <br>
                 https://youtu.be/QmsR6vfYDr0 <br>
 
-Intall Pytorch in Anaconda: https://youtu.be/hZBgjrEjQqo 
-Install Pytorch : https://www.javatpoint.com/pytorch-installation
+Intall Pytorch in Anaconda: https://youtu.be/hZBgjrEjQqo  <br>
+Install Pytorch : https://www.javatpoint.com/pytorch-installation <br>
 
 How to compile code: https://youtu.be/sGWLjbn5cgs
 
