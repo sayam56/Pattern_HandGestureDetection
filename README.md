@@ -102,6 +102,9 @@ Introduction to ReLu<br>
 BatchNorm<br>
 &emsp;&emsp;https://discuss.pytorch.org/t/understanding-batchnorm/35516
 
+Batch Normalization<br>
+&emsp;&emsp;https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
+
 
 
 
